@@ -20,10 +20,14 @@
 
 - 第一次使用 git， 如何安装和配置？
 - commit 的规范
-- 修改 commit 的信息
-- 合并几个 commit
+- 重写历史
 - git 的网络协议
-- 三路 merge 的原理
-- 文件相关操作（移动、移除等）
+- git merge 原理与三路 merge
 - 如何查看 git 的提交历史
 - 如何回退到历史的版本呢
+
+
+
+## 参考文献
+
+https://git-scm.com/book/en/v2

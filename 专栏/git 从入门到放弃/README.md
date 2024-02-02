@@ -21,8 +21,8 @@
 - 第一次使用 git， 如何安装和配置？
 - commit 的规范
 - 重写历史
-- git 的网络协议
-- git merge 原理与三路 merge
+- 本地仓库与远程仓库 的 git 协议
+- git merge 的原理与“三路 merge”
 - 如何查看 git 的提交历史
 - 如何回退到历史的版本呢
 - 临时储存与恢复
@@ -33,4 +33,4 @@
 
 ## 参考文献
 
-https://git-scm.com/book/en/v2
+* https://git-scm.com/book/en/v2

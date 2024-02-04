@@ -65,6 +65,7 @@ File objects used by the interpreter for standard input, output and errors:
 * When interactive, the stdout stream is line-buffered. Otherwise, it is block-buffered like regular text files. 
 
 这个表格说明了不同缓冲模式的行为
+
 ![alt text](img/企业微信截图_20240204163723.png)
 
 ## 如果代码块的子进程的 stdout 也想被重定向呢？

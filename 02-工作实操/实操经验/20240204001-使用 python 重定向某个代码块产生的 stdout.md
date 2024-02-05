@@ -134,4 +134,6 @@ Duplicate file descriptor fd to fd2, closing the latter first if necessary. Retu
 
 ## 小节
 
-os.dup 的方法只能说是达到了目的，但其实很不 python，比较优雅的方法可能是重写 sys.stdout 和 fork 的行为。
+* os.dup 的方法只能说是达到了目的，但其实很不 python，比较优雅的方法可能是重写 sys.stdout 和 fork 的行为。
+* 如果这个python程序是个多线程的程序就不试用了。
+
